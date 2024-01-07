@@ -752,6 +752,7 @@ download(model_repo='OpenLMLab/InternLM-7b', model_name='InternLM-7b', output='y
 
 - 使用 InternLM-Chat-7B 模型生成 300 字的小故事（需截图）。
 ![Alt text](images/story.png)
+
 - 熟悉 hugging face 下载功能，使用 `huggingface_hub` python 包，下载 `InternLM-20B` 的 config.json 文件到本地（需截图下载过程）。
 ![Alt text](images/hf_download.png)
 
@@ -761,7 +762,7 @@ download(model_repo='OpenLMLab/InternLM-7b', model_name='InternLM-7b', output='y
 ![Alt text](images/xcomposer.png)
 
 - 完成 Lagent 工具调用 Demo 创作部署（需截图）
-![Alt text](images/Lagent.png)
+![Alt text](images/lagent.png)
 
 **整体实训营项目：**
 
